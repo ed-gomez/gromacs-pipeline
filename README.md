@@ -1,5 +1,5 @@
 # GROMACS Protein MD Simulation Script
-A bash script that will prepare a pdb file for a production MD run all in one script.
+A bash script that will prepare a pdb file for a MD run and handle minimization, equilibration, and production runs automatically.
 
 ---
 
